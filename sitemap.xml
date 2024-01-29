@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://MostafaAbdelazim16/HR-blogger/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hr-blogger.vercel.app/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://MostafaAbdelazim16/HR-blogger/</loc>
+<loc>https://hr-blogger.vercel.app/</loc>
 </url>
 <url>
-<loc>https://MostafaAbdelazim16/HR-blogger/generation-of-attendance-and-departure-of-employees/</loc>
+<loc>https://hr-blogger.vercel.app/generation-of-attendance-and-departure-of-employees/</loc>
 <lastmod>2023-08-20T15:19:42+03:00</lastmod>
 <image:image>
-<image:loc>https://MostafaAbdelazim16/HR-blogger/media/posts/1/DyDaS9DU8AAuAA-.jfif</image:loc>
+<image:loc>https://hr-blogger.vercel.app/media/posts/1/DyDaS9DU8AAuAA-.jfif</image:loc>
 <image:title><![CDATA[برنامج تسجيل حضور وانصراف الموظفين: الحل الذكي لإدارة الوقت والحضور]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://MostafaAbdelazim16/HR-blogger/payroll-manager/</loc>
+<loc>https://hr-blogger.vercel.app/payroll-manager/</loc>
 <lastmod>2023-08-20T15:19:15+03:00</lastmod>
 <image:image>
-<image:loc>https://MostafaAbdelazim16/HR-blogger/media/posts/2/financial-autonomy-2.jpg</image:loc>
+<image:loc>https://hr-blogger.vercel.app/media/posts/2/financial-autonomy-2.jpg</image:loc>
 <image:title><![CDATA[مسير الرواتب: دليل شامل لإدارة الرواتب بكفاءة]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://MostafaAbdelazim16/HR-blogger/performance-appraisal-in-human-resources/</loc>
+<loc>https://hr-blogger.vercel.app/performance-appraisal-in-human-resources/</loc>
 <lastmod>2023-08-20T15:18:24+03:00</lastmod>
 <image:image>
-<image:loc>https://MostafaAbdelazim16/HR-blogger/media/posts/3/fda225a816692f951757c0fb0d83ad25eb76a2fb-2.webp</image:loc>
+<image:loc>https://hr-blogger.vercel.app/media/posts/3/fda225a816692f951757c0fb0d83ad25eb76a2fb-2.webp</image:loc>
 <image:title><![CDATA[تقييم الأداء في الموارد البشرية: دليل شامل لتحسين الأداء وتطوير الموظفين]]></image:title>
 </image:image>
 </url>

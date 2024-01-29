@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://MostafaAbdelazim16/HR-blogger/sitemap.xml
+Sitemap: https://hr-blogger.vercel.app/sitemap.xml
