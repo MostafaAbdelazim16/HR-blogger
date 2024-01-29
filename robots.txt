@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://MostafaAbdelazim16/HR-blogger/sitemap.xml
